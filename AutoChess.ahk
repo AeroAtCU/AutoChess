@@ -179,3 +179,4 @@ Return
 ; Testing ability to save a default pixel location by saving/ reading
 ; from the end of the actual code file (AutoChess.ahk)
 ; 800,500,1000,300
+; test
